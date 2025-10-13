@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Nike",
+        "founded": 1964,
+        "headquarters": "Beaverton, Oregon, USA",
+        "employees": 76000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories"
+        ]
+    }
+]
