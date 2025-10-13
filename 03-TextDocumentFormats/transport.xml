@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MeansOfTransport>
+    <bus>
+        <capacity> 30 </capacity>
+        <ticketPrice currency="zl"> 5 </ticketPrice>
+        <OperatingHours>5:00 - 23:00</OperatingHours>
+        <travelTime unit="minutes"> 30 </travelTime>
+
+    </bus>
+    <tram>
+        <capacity> 60 </capacity>
+        <ticketPrice currency="zl"> 4 </ticketPrice>
+        <OperatingHours>4:00 - 01:00</OperatingHours>
+        <travelTime unit="minutes"> 25 </travelTime>
+
+    </tram>
+    <car>
+        <fuelPricePerLiter currency="zl"> 6 </fuelPricePerLiter>
+        <travelTime unit="minutes"> 15 </travelTime>
+        <capacity> 5 </capacity>
+        <brand> BMW </brand>
+    
+    </car>
+
+</MeansOfTransport>

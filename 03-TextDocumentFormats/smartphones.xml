@@ -11,11 +11,11 @@
     </smartphone>
     <smartphone brand="iphone" model="15" releaseYear="2023">
         <specs>
-            <screenSize unit="inch">6.2</screenSize>
-            <batteryCapacity unit="mAh">4000</batteryCapacity>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">3349</batteryCapacity>
             <storage unit="GB">256</storage>
-            <camera unit="MP">50</camera>
+            <camera unit="MP">48</camera>
         </specs>
-        <price currency="USD">900</price>
+        <price currency="USD">699SS</price>
     </smartphone>
 </smartphones>
