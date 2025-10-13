@@ -53,5 +53,29 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "supreme",
+        "founded": 1994,
+        "headquarters": "New York, USA",
+        "employees": 6500,
+        "products": [
+            "streetwear",
+            "footwear"
+
+        ]
+
+    },
+    {
+        "name": "Ralph Lauren" ,
+        "founded": 1967 ,
+        "headquarters": "New York, USA",
+        "employees": 23400,
+        "products": [
+            "Tracksuits",
+            "Classy Clothes"
+            
+        ]
+
     }
 ]

@@ -1,0 +1,13 @@
+{
+    "Class": "STD",
+    "Ticket Type": "SUPERSAVER RTN",
+    "From": "Cracow",
+    "To": "Warsaw",
+    "Date": "19 Feb 2025",
+    "Price":{
+        "value": 60,
+        "currency": "zl"
+    },
+    "Seat": 47
+
+}
