@@ -1,0 +1,18 @@
+th{
+    background-color: green;
+
+}
+
+td{
+    padding: 7px;
+}
+
+tr:hover{
+    background-color: rgb(119, 255, 148);
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+

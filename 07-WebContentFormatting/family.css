@@ -1,0 +1,11 @@
+div{
+    margin-bottom: 20px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+input,textarea,select{
+    border: 3px solid black;
+    width: 100%;
+}
